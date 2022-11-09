@@ -11,5 +11,7 @@ it also seems like i intended on adding a combat system since the sprites are th
 
 the hitboxes on the menu screen are on because i was debugging
 
+when playing from the jar file, data wont be saved. data will only be saved when running the game from the terminal or an IDE.
+
 i sadly dont remember where i got the sprites from because 70% of it was downloaded from some website
 so credits to whoever drew the sprites
